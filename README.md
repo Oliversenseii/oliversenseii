@@ -28,11 +28,16 @@
 ---
 <h3>SERVICES I OFFER</h3>
 <pre style="background:none; border:none; outline:none;">
-<b>Website Development</b>      Building responsive and modern websites using clean and efficient code.
-<b>UI/UX Design</b>             Designing user-friendly and visually appealing interfaces for better experience.
-<b>Landing Page Design</b>      Creating high-converting landing pages that attract and engage users.
-<b>Website Maintenance</b>      Updating, fixing, and improving websites for smooth performance.
-<b>Project Consultation</b>     Helping plan and guide your web projects from idea to execution.
+<b>Website Development</b>      
+Building responsive and modern websites using clean and efficient code.<br>
+<b>UI/UX Design</b>             
+Designing user-friendly and visually appealing interfaces for better experience.<br>
+<b>Landing Page Design</b>      
+Creating high-converting landing pages that attract and engage users.<br>
+<b>Website Maintenance</b>      
+Updating, fixing, and improving websites for smooth performance.<br>
+<b>Project Consultation</b>     
+Helping plan and guide your web projects from idea to execution.
 </pre>
 
 <div align="center">
