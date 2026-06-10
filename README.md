@@ -20,8 +20,7 @@
 <pre style="background:none; border:none; outline:none;">
 <b>Name</b>      John Nemuel Martillos
 <b>Nickname</b>  Oliver Senseii
-<b>Degree</b>    Bachelor of Science in Information Systems
-<b></b>          <i>major in IT Service Management</i>
+<b>Degree</b>    Bachelor of Science in Information Systems Major in IT Service Management
 <b>Status</b>    Open to Freelance
 </pre>
 
