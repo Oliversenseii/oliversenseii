@@ -43,6 +43,6 @@ Helping plan and guide your web projects from idea to execution.
 
 ---
 
-*✨ Open to freelance projectt, feel free to reach out!*
+*✨ Open to freelance project, feel free to reach out!*
 
 </div>
